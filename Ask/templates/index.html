@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block style %}
+    <link href="{% static 'bundle.css' %}" rel="stylesheet" />
+{% endblock style %}
+
+{% block content %}
+
+    <noscript>
+        <strong>
+            Questa Web App necessita di JavaScript per funzionare; assicurati di averlo abilitato!
+        </strong>
+    </noscript>
+
+    <div id="app"></div>
+
+
+{% endblock content %}
+
+{% block js %}
+    <script src="{% static 'bundle.js' %}"></script>
+{% endblock js %}
