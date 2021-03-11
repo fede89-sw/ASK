@@ -31,3 +31,10 @@ Run Django's development server:
 python manage.py runserver
 ```
 Open up Chrome and go to 127.0.0.1:8000 and the app is now running in development mode!
+
+
+## Built With
+
+* [Django](https://www.djangoproject.com/)
+* [Django REST Framework](https://www.django-rest-framework.org/)
+* [Vue JS](https://vuejs.org/)
