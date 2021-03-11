@@ -1,5 +1,5 @@
 # ASK
-Single Page Application create con Django, Django Rest Framework e Vue JS
+Single Page Application creata con Django, Django Rest Framework e Vue JS
 
 # Hot to set up the project to run on your local machine?
  Download the code to your PC, unpack the zip and move inside the folder.
