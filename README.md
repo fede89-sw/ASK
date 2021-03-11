@@ -19,7 +19,7 @@ Apply the migrations as usual.
 
 Time to install the Vue JS dependencies:
 ```
-cd QuestionTime/frontend
+cd ask/frontend
 npm install
 ```
 Run Vue JS Development Server:
