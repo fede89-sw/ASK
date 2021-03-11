@@ -13,7 +13,7 @@ Activate the environment and install all the Python/Django dependencies:
 ```
 cd/venv/scripts
 activate
-pip install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 Apply the migrations as usual.
 
